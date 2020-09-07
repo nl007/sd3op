@@ -3,12 +3,10 @@ layout: contact
 title: Contact
 permalink: /contact
 section: contact
+<<<<<<< HEAD
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications.
+intro_paragraph: Send us message.
 ---
 
 **Send us a message**
