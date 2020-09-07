@@ -11,5 +11,3 @@ intro_paragraph: |-
   set up notifications. Each submission is passed through a spam filter and if
   flagged, will display a CAPTCHA challenge to the user.
 ---
-
-**Send us a message**
