@@ -15,9 +15,9 @@ section: resources
 
 **[Dominican Friars Western Province — www.opwest.org](http://www.opwest.org)** - the friars have a [mobile app](https://www.opwest.org/app/) that you install: "Packed with short videos, news and insights on the Dominicans, it’s the one app to stay connected and help you answer the biggest questions on life, society and the faith. And with new videos each week, you’ll always have something meaningful to watch".
 
-### Unofficial Dominican Resources
-**[Aquinas 101](http://www.opwest.org)**
+### Unofficial Resources
+**[Aquinas 101](https://aquinas101.thomisticinstitute.org/)** - The Thomistic Institute exists to promote Catholic truth in our contemporary world by strengthening the intellectual formation of Christians at universities, in the Church, and in the wider public square. The thought of St. Thomas Aquinas, the Universal Doctor of the Church, is our touchstone. The Thomistic Institute is part of the Pontifical Faculty of the Dominican House of Studies in Washington, D.C.  It was founded in 2009.
 
-**[San Diego Lay Dominicans Slack channel](https://sd3op.slack.com)**
+**[San Diego Lay Dominicans Slack channel](https://sd3op.slack.com)** - This is an internal website for the San Diego Lay Dominicans. This is invite only.
 
 
