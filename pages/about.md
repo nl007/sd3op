@@ -14,4 +14,4 @@ Lay Dominicans come from every background, joining the Dominican charism to thei
 
 ### Frequently Asked Questions
 
-Coming soon.
+We'll be adding more questions here, but for now you can look at the [Dominican Resources](/resources) link to learn more.
