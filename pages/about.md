@@ -2,20 +2,22 @@
 layout: page
 title: About
 meta_description: |
-  This sets the meta description in the head of the page. You can watch the 
-  output in the browser or in the generated file _site/about.html.
+  Frequently asked questions about the 3rd Order Dominicans, St Dominic Chapter (also known as San Diego Lay Dominicans)
 permalink: /about
 section: about
-intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Who we are
 
-### A heading
+The St Dominic Chapter of San Diego meets monthly on the 3rd Thursday of the month at Catholic Answers in El Cajon, CA. We share a communal dinner at 6:30pm, chant vespers at 7:00pm and continue with a short business meeting and study. We complete the evening with compline and singing the Salve Regina
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### About Us
 
-#### Another heading
+Members of the Fraternities of St Dominic are lay men and women who are fully incorporated members of the Order of Preachers and live out their Dominican vocation in the world. Lay Dominicans, who in the past have been called Third Order Tertiaries, have existed almost as long as the Dominican order itself. The Lay Fraternities of St Dominic was founded with their own rule in 1285 and was officially recognized by the Church on the feast of St Thomas Aquinas in 1286.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lay Dominicans are required to pray the Divine Office (morning, evening, and night prayer), pray a daily rosary, and attend daily Mass, if possible.
+
+Lay Dominicans come from every background, joining the Dominican charism to their state of life in the world. As members of the Order, they participate in its apostolic mission through prayer, study, and and sharing the Faith through their unique gifts according to the state proper to the laity.
+
+### Frequently Asked Questions
+
+Coming soon.
