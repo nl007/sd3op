@@ -18,6 +18,6 @@ section: resources
 ### Unofficial Resources
 **[Aquinas 101](https://aquinas101.thomisticinstitute.org/)** - The Thomistic Institute exists to promote Catholic truth in our contemporary world by strengthening the intellectual formation of Christians at universities, in the Church, and in the wider public square. The thought of St. Thomas Aquinas, the Universal Doctor of the Church, is our touchstone. The Thomistic Institute is part of the Pontifical Faculty of the Dominican House of Studies in Washington, D.C.  It was founded in 2009.
 
-**[San Diego Lay Dominicans Slack channel](https://sd3op.slack.com)** - This is an internal website for the San Diego Lay Dominicans. This is invite only.
+**[San Diego Lay Dominicans Slack channel](https://sd3op.slack.com)** - This is an internal website for the San Diego Lay Dominicans. This is invite only. [Contact us](/contact) to learn more or join us at our monthly meeting.
 
 
