@@ -17,5 +17,6 @@ section: resources
 
 ### Unofficial Dominican Resources
 **[Aquinas 101](http://www.opwest.org)**
+**[San Diego Lay Dominicans Slack channel](https://sd3op.slack.com)**
 
 
