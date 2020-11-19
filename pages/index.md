@@ -17,4 +17,4 @@ As Lay Dominicans responding to His grace, we are called to be attentive to the 
 
 ### Who we are
 
-The St Dominic Chapter of San Diego meets monthly on the 3rd Thursday of the month at Catholic Answers in El Cajon, CA. We share a communal dinner at 6:30pm, chant vespers at 7:00pm and continue with a short business meeting and study. We complete the evening with compline and singing the Salve Regina. [Learn more](/about)
+The St Dominic Chapter of San Diego meets monthly on the 3rd Thursday of the month at [Catholic Answers](https://catholic.com) in El Cajon, CA. We share a communal dinner at 6:30pm, chant vespers at 7:00pm and continue with a short business meeting and study. We complete the evening with compline and singing the Salve Regina. [Learn more](/about)
