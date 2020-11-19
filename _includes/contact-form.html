@@ -1,4 +1,4 @@
-<form name="contact" method="POST" netlify>
+<form name="contact" method="POST" netlify netlify-honeypot="b-field" data-netlify-recaptcha="true">
   <label for="name">Name</label>
   <input type="text" name="name" id="name" autocomplete="name" placeholder="Your name" title="Please enter your name" required>
   <label for="email">Email</label>
@@ -7,5 +7,9 @@
   <input type="text" name="phone" id="phone" autocomplete="tel-national" placeholder="A contact number, optional">
   <label for="message">Message</label>
   <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
+  <p style="display:none">
+    <label>Don’t fill this out if you're human: <input name="b-field" /></label>
+  </p>
   <button type="submit" name="submit">Send Message</button>
+
 </form>
