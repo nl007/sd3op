@@ -16,11 +16,11 @@
 title: San Diego Lay Dominicans
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-In a powerful and compelling way, St. Dominic proclaimed the Gospel of Jesus Christ to the men and women of his time.
+    In a powerful and compelling way, St. Dominic proclaimed the Gospel of Jesus Christ to the men and women of his time.
 
-To be effective instruments of Our Lord, we must live lives centered on Him. We must, as Saint Dominic did, bring Christ’s redemptive grace to our times by our own witness to the Word in life and action, keeping in mind that our apostolic activity flows from the fullness of prayer and contemplation.
+    To be effective instruments of Our Lord, we must live lives centered on Him. We must, as Saint Dominic did, bring Christ’s redemptive grace to our times by our own witness to the Word in life and action, keeping in mind that our apostolic activity flows from the fullness of prayer and contemplation.
 
-As Lay Dominicans responding to His grace, we are called to be attentive to the Spirit, to study Sacred Truth, to know Church doctrine, and to collaborate with our entire Dominican Family in order to proclaim the Word of God.
+    As Lay Dominicans responding to His grace, we are called to be attentive to the Spirit, to study Sacred Truth, to know Church doctrine, and to collaborate with our entire Dominican Family in order to proclaim the Word of God.
   
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://sd3op.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
